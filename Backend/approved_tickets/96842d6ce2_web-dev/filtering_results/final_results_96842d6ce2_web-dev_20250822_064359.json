@@ -1,0 +1,2118 @@
+{
+  "ticket_id": "96842d6ce2_web-dev",
+  "position": "web dev",
+  "timestamp": "2025-08-22T06:43:59.067261",
+  "job_status": "updated",
+  "requirements_last_updated": "2025-08-22T05:55:29.563699",
+  "latest_requirements": {
+    "experience": "5",
+    "tech_stack": [
+      "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+      "Programming Languages: HTML",
+      "JavaScript",
+      "UX",
+      "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+      "Angular",
+      "CSS"
+    ],
+    "location": "london",
+    "salary": "55-65",
+    "deadline": "28-12-2025"
+  },
+  "summary": {
+    "total_resumes": 4,
+    "unique_candidates": 4,
+    "duplicate_groups_found": 0,
+    "stage1_selected": 4,
+    "final_selected": 4
+  },
+  "duplicate_detection": {
+    "total_resumes_submitted": 4,
+    "unique_candidates": 4,
+    "duplicate_groups_found": 0,
+    "duplicate_groups": []
+  },
+  "stage1_results": {
+    "all_resumes": [
+      {
+        "file_path": "approved_tickets\\96842d6ce2_web-dev\\Walid_20250822_064249.pdf",
+        "filename": "Walid_20250822_064249.pdf",
+        "final_score": 0.49835714285714283,
+        "skill_score": 0.8571428571428571,
+        "experience_score": 0.4,
+        "location_score": 0.0,
+        "professional_development_score": 0.1775,
+        "similarity_score": 0.013130374809570227,
+        "matched_skills": [
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+          "Programming Languages: HTML",
+          "JavaScript",
+          "UX",
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+          "CSS"
+        ],
+        "detailed_skill_matches": {
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React": [
+            "react",
+            "reactjs"
+          ],
+          "Programming Languages: HTML": [
+            "html"
+          ],
+          "JavaScript": [
+            "javascript"
+          ],
+          "UX": [
+            "ux"
+          ],
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience": [
+            "sql"
+          ],
+          "CSS": [
+            "css"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.1775,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.5071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "cka",
+                "ceh",
+                "cks"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka",
+                  "cks"
+                ],
+                "security": [
+                  "ceh"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "devops",
+              "security"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "web dev",
+          "required_skills": [
+            "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+            "Programming Languages: HTML",
+            "JavaScript",
+            "UX",
+            "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+            "Angular",
+            "CSS"
+          ],
+          "required_experience": "5",
+          "location": "london"
+        },
+        "candidate_id": "52ec00666070",
+        "has_duplicates": false,
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.02,
+        "adjusted_score": 0.6183571428571428,
+        "final_rank": 1,
+        "selection_reason": "Excellent skill match; has relevant certifications; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\96842d6ce2_web-dev\\SAHIL_KHAN_20250821_234232.pdf",
+        "filename": "SAHIL_KHAN_20250821_234232.pdf",
+        "final_score": 0.3700714285714286,
+        "skill_score": 0.5714285714285714,
+        "experience_score": 0.2,
+        "location_score": 0.0,
+        "professional_development_score": 0.4075,
+        "similarity_score": 0.04653918479959774,
+        "matched_skills": [
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+          "JavaScript",
+          "UX",
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience"
+        ],
+        "detailed_skill_matches": {
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React": [
+            "react",
+            "reactjs"
+          ],
+          "JavaScript": [
+            "javascript"
+          ],
+          "UX": [
+            "ux"
+          ],
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience": [
+            "sql"
+          ]
+        },
+        "detected_experience_years": 1,
+        "professional_development": {
+          "professional_development_score": 0.4075,
+          "professional_development_level": "Moderate - Some professional development activities",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.7071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.6,
+              "certifications_found": [
+                "google cloud certified",
+                "cka",
+                "cks"
+              ],
+              "certification_categories": {
+                "cloud": [
+                  "google cloud certified"
+                ],
+                "devops": [
+                  "cka",
+                  "cks"
+                ]
+              },
+              "years_detected": [
+                2022,
+                2021
+              ]
+            },
+            "online_learning": {
+              "online_learning_score": 0.4,
+              "platforms_found": [
+                "coursera"
+              ],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "cloud",
+              "devops"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 1,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications",
+              "Cloud certified professional"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "web dev",
+          "required_skills": [
+            "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+            "Programming Languages: HTML",
+            "JavaScript",
+            "UX",
+            "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+            "Angular",
+            "CSS"
+          ],
+          "required_experience": "5",
+          "location": "london"
+        },
+        "candidate_id": "368f1f98eacd",
+        "has_duplicates": false,
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.02,
+        "adjusted_score": 0.4900714285714286,
+        "final_rank": 2,
+        "selection_reason": "Moderate skill match; has relevant certifications; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\96842d6ce2_web-dev\\Fardeen_Khan_20250821_234031.pdf",
+        "filename": "Fardeen_Khan_20250821_234031.pdf",
+        "final_score": 0.3125,
+        "skill_score": 0.0,
+        "experience_score": 1.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0625,
+        "similarity_score": 0.06490758396650059,
+        "matched_skills": [],
+        "detailed_skill_matches": {},
+        "detected_experience_years": 5,
+        "professional_development": {
+          "professional_development_score": 0.0625,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.17857142857142858,
+              "certification_count": 1,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "pmp"
+              ],
+              "certification_categories": {
+                "agile": [
+                  "pmp"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 2,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": true
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 1,
+            "certification_categories": [
+              "agile"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 2,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 3
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "web dev",
+          "required_skills": [
+            "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+            "Programming Languages: HTML",
+            "JavaScript",
+            "UX",
+            "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+            "Angular",
+            "CSS"
+          ],
+          "required_experience": "5",
+          "location": "london"
+        },
+        "candidate_id": "58a8b0819d31",
+        "has_duplicates": false,
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.06,
+        "adjusted_score": 0.4725,
+        "final_rank": 3,
+        "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\96842d6ce2_web-dev\\Shubham_20250822_044010.pdf",
+        "filename": "Shubham_20250822_044010.pdf",
+        "final_score": 0.05714285714285714,
+        "skill_score": 0.14285714285714285,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.0038979855167445444,
+        "matched_skills": [
+          "JavaScript"
+        ],
+        "detailed_skill_matches": {
+          "JavaScript": [
+            "js"
+          ]
+        },
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "web dev",
+          "required_skills": [
+            "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+            "Programming Languages: HTML",
+            "JavaScript",
+            "UX",
+            "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+            "Angular",
+            "CSS"
+          ],
+          "required_experience": "5",
+          "location": "london"
+        },
+        "candidate_id": "3dccba213ce6",
+        "has_duplicates": false,
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.05714285714285714,
+        "final_rank": 4,
+        "selection_reason": "Moderate skill match"
+      }
+    ],
+    "top_10": [
+      {
+        "file_path": "approved_tickets\\96842d6ce2_web-dev\\Walid_20250822_064249.pdf",
+        "filename": "Walid_20250822_064249.pdf",
+        "final_score": 0.49835714285714283,
+        "skill_score": 0.8571428571428571,
+        "experience_score": 0.4,
+        "location_score": 0.0,
+        "professional_development_score": 0.1775,
+        "similarity_score": 0.013130374809570227,
+        "matched_skills": [
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+          "Programming Languages: HTML",
+          "JavaScript",
+          "UX",
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+          "CSS"
+        ],
+        "detailed_skill_matches": {
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React": [
+            "react",
+            "reactjs"
+          ],
+          "Programming Languages: HTML": [
+            "html"
+          ],
+          "JavaScript": [
+            "javascript"
+          ],
+          "UX": [
+            "ux"
+          ],
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience": [
+            "sql"
+          ],
+          "CSS": [
+            "css"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.1775,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.5071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "cka",
+                "ceh",
+                "cks"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka",
+                  "cks"
+                ],
+                "security": [
+                  "ceh"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "devops",
+              "security"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "web dev",
+          "required_skills": [
+            "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+            "Programming Languages: HTML",
+            "JavaScript",
+            "UX",
+            "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+            "Angular",
+            "CSS"
+          ],
+          "required_experience": "5",
+          "location": "london"
+        },
+        "candidate_id": "52ec00666070",
+        "has_duplicates": false,
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.02,
+        "adjusted_score": 0.6183571428571428,
+        "final_rank": 1,
+        "selection_reason": "Excellent skill match; has relevant certifications; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\96842d6ce2_web-dev\\SAHIL_KHAN_20250821_234232.pdf",
+        "filename": "SAHIL_KHAN_20250821_234232.pdf",
+        "final_score": 0.3700714285714286,
+        "skill_score": 0.5714285714285714,
+        "experience_score": 0.2,
+        "location_score": 0.0,
+        "professional_development_score": 0.4075,
+        "similarity_score": 0.04653918479959774,
+        "matched_skills": [
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+          "JavaScript",
+          "UX",
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience"
+        ],
+        "detailed_skill_matches": {
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React": [
+            "react",
+            "reactjs"
+          ],
+          "JavaScript": [
+            "javascript"
+          ],
+          "UX": [
+            "ux"
+          ],
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience": [
+            "sql"
+          ]
+        },
+        "detected_experience_years": 1,
+        "professional_development": {
+          "professional_development_score": 0.4075,
+          "professional_development_level": "Moderate - Some professional development activities",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.7071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.6,
+              "certifications_found": [
+                "google cloud certified",
+                "cka",
+                "cks"
+              ],
+              "certification_categories": {
+                "cloud": [
+                  "google cloud certified"
+                ],
+                "devops": [
+                  "cka",
+                  "cks"
+                ]
+              },
+              "years_detected": [
+                2022,
+                2021
+              ]
+            },
+            "online_learning": {
+              "online_learning_score": 0.4,
+              "platforms_found": [
+                "coursera"
+              ],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "cloud",
+              "devops"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 1,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications",
+              "Cloud certified professional"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "web dev",
+          "required_skills": [
+            "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+            "Programming Languages: HTML",
+            "JavaScript",
+            "UX",
+            "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+            "Angular",
+            "CSS"
+          ],
+          "required_experience": "5",
+          "location": "london"
+        },
+        "candidate_id": "368f1f98eacd",
+        "has_duplicates": false,
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.02,
+        "adjusted_score": 0.4900714285714286,
+        "final_rank": 2,
+        "selection_reason": "Moderate skill match; has relevant certifications; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\96842d6ce2_web-dev\\Fardeen_Khan_20250821_234031.pdf",
+        "filename": "Fardeen_Khan_20250821_234031.pdf",
+        "final_score": 0.3125,
+        "skill_score": 0.0,
+        "experience_score": 1.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0625,
+        "similarity_score": 0.06490758396650059,
+        "matched_skills": [],
+        "detailed_skill_matches": {},
+        "detected_experience_years": 5,
+        "professional_development": {
+          "professional_development_score": 0.0625,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.17857142857142858,
+              "certification_count": 1,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "pmp"
+              ],
+              "certification_categories": {
+                "agile": [
+                  "pmp"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 2,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": true
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 1,
+            "certification_categories": [
+              "agile"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 2,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 3
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "web dev",
+          "required_skills": [
+            "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+            "Programming Languages: HTML",
+            "JavaScript",
+            "UX",
+            "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+            "Angular",
+            "CSS"
+          ],
+          "required_experience": "5",
+          "location": "london"
+        },
+        "candidate_id": "58a8b0819d31",
+        "has_duplicates": false,
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.06,
+        "adjusted_score": 0.4725,
+        "final_rank": 3,
+        "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\96842d6ce2_web-dev\\Shubham_20250822_044010.pdf",
+        "filename": "Shubham_20250822_044010.pdf",
+        "final_score": 0.05714285714285714,
+        "skill_score": 0.14285714285714285,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.0038979855167445444,
+        "matched_skills": [
+          "JavaScript"
+        ],
+        "detailed_skill_matches": {
+          "JavaScript": [
+            "js"
+          ]
+        },
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "web dev",
+          "required_skills": [
+            "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+            "Programming Languages: HTML",
+            "JavaScript",
+            "UX",
+            "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+            "Angular",
+            "CSS"
+          ],
+          "required_experience": "5",
+          "location": "london"
+        },
+        "candidate_id": "3dccba213ce6",
+        "has_duplicates": false,
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.05714285714285714,
+        "final_rank": 4,
+        "selection_reason": "Moderate skill match"
+      }
+    ],
+    "scoring_criteria": {
+      "skills_required": [
+        "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+        "Programming Languages: HTML",
+        "JavaScript",
+        "UX",
+        "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+        "Angular",
+        "CSS"
+      ],
+      "experience_range": "5",
+      "location": "london"
+    },
+    "duplicate_summary": {
+      "total_resumes_submitted": 4,
+      "unique_candidates": 4,
+      "duplicate_groups_found": 0,
+      "duplicate_groups": []
+    },
+    "unique_candidates": 4,
+    "duplicate_groups_count": 0
+  },
+  "final_results": {
+    "top_5_candidates": [
+      {
+        "file_path": "approved_tickets\\96842d6ce2_web-dev\\Walid_20250822_064249.pdf",
+        "filename": "Walid_20250822_064249.pdf",
+        "final_score": 0.49835714285714283,
+        "skill_score": 0.8571428571428571,
+        "experience_score": 0.4,
+        "location_score": 0.0,
+        "professional_development_score": 0.1775,
+        "similarity_score": 0.013130374809570227,
+        "matched_skills": [
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+          "Programming Languages: HTML",
+          "JavaScript",
+          "UX",
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+          "CSS"
+        ],
+        "detailed_skill_matches": {
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React": [
+            "react",
+            "reactjs"
+          ],
+          "Programming Languages: HTML": [
+            "html"
+          ],
+          "JavaScript": [
+            "javascript"
+          ],
+          "UX": [
+            "ux"
+          ],
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience": [
+            "sql"
+          ],
+          "CSS": [
+            "css"
+          ]
+        },
+        "detected_experience_years": 2,
+        "professional_development": {
+          "professional_development_score": 0.1775,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.5071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "cka",
+                "ceh",
+                "cks"
+              ],
+              "certification_categories": {
+                "devops": [
+                  "cka",
+                  "cks"
+                ],
+                "security": [
+                  "ceh"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "devops",
+              "security"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 2,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "web dev",
+          "required_skills": [
+            "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+            "Programming Languages: HTML",
+            "JavaScript",
+            "UX",
+            "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+            "Angular",
+            "CSS"
+          ],
+          "required_experience": "5",
+          "location": "london"
+        },
+        "candidate_id": "52ec00666070",
+        "has_duplicates": false,
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.02,
+        "adjusted_score": 0.6183571428571428,
+        "final_rank": 1,
+        "selection_reason": "Excellent skill match; has relevant certifications; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\96842d6ce2_web-dev\\SAHIL_KHAN_20250821_234232.pdf",
+        "filename": "SAHIL_KHAN_20250821_234232.pdf",
+        "final_score": 0.3700714285714286,
+        "skill_score": 0.5714285714285714,
+        "experience_score": 0.2,
+        "location_score": 0.0,
+        "professional_development_score": 0.4075,
+        "similarity_score": 0.04653918479959774,
+        "matched_skills": [
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+          "JavaScript",
+          "UX",
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience"
+        ],
+        "detailed_skill_matches": {
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React": [
+            "react",
+            "reactjs"
+          ],
+          "JavaScript": [
+            "javascript"
+          ],
+          "UX": [
+            "ux"
+          ],
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience": [
+            "sql"
+          ]
+        },
+        "detected_experience_years": 1,
+        "professional_development": {
+          "professional_development_score": 0.4075,
+          "professional_development_level": "Moderate - Some professional development activities",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.7071428571428571,
+              "certification_count": 3,
+              "recent_certification_score": 0.6,
+              "certifications_found": [
+                "google cloud certified",
+                "cka",
+                "cks"
+              ],
+              "certification_categories": {
+                "cloud": [
+                  "google cloud certified"
+                ],
+                "devops": [
+                  "cka",
+                  "cks"
+                ]
+              },
+              "years_detected": [
+                2022,
+                2021
+              ]
+            },
+            "online_learning": {
+              "online_learning_score": 0.4,
+              "platforms_found": [
+                "coursera"
+              ],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 3,
+            "certification_categories": [
+              "cloud",
+              "devops"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 1,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": [
+              "Has 3 professional certifications",
+              "Cloud certified professional"
+            ]
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 1
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "web dev",
+          "required_skills": [
+            "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+            "Programming Languages: HTML",
+            "JavaScript",
+            "UX",
+            "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+            "Angular",
+            "CSS"
+          ],
+          "required_experience": "5",
+          "location": "london"
+        },
+        "candidate_id": "368f1f98eacd",
+        "has_duplicates": false,
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.02,
+        "adjusted_score": 0.4900714285714286,
+        "final_rank": 2,
+        "selection_reason": "Moderate skill match; has relevant certifications; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\96842d6ce2_web-dev\\Fardeen_Khan_20250821_234031.pdf",
+        "filename": "Fardeen_Khan_20250821_234031.pdf",
+        "final_score": 0.3125,
+        "skill_score": 0.0,
+        "experience_score": 1.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0625,
+        "similarity_score": 0.06490758396650059,
+        "matched_skills": [],
+        "detailed_skill_matches": {},
+        "detected_experience_years": 5,
+        "professional_development": {
+          "professional_development_score": 0.0625,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.17857142857142858,
+              "certification_count": 1,
+              "recent_certification_score": 0.0,
+              "certifications_found": [
+                "pmp"
+              ],
+              "certification_categories": {
+                "agile": [
+                  "pmp"
+                ]
+              },
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 2,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": true
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 1,
+            "certification_categories": [
+              "agile"
+            ],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 2,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": true,
+          "leadership_experience": 3
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "web dev",
+          "required_skills": [
+            "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+            "Programming Languages: HTML",
+            "JavaScript",
+            "UX",
+            "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+            "Angular",
+            "CSS"
+          ],
+          "required_experience": "5",
+          "location": "london"
+        },
+        "candidate_id": "58a8b0819d31",
+        "has_duplicates": false,
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0.1,
+        "leadership_bonus": 0.06,
+        "adjusted_score": 0.4725,
+        "final_rank": 3,
+        "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications; leadership experience"
+      },
+      {
+        "file_path": "approved_tickets\\96842d6ce2_web-dev\\Shubham_20250822_044010.pdf",
+        "filename": "Shubham_20250822_044010.pdf",
+        "final_score": 0.05714285714285714,
+        "skill_score": 0.14285714285714285,
+        "experience_score": 0.0,
+        "location_score": 0.0,
+        "professional_development_score": 0.0,
+        "similarity_score": 0.0038979855167445444,
+        "matched_skills": [
+          "JavaScript"
+        ],
+        "detailed_skill_matches": {
+          "JavaScript": [
+            "js"
+          ]
+        },
+        "detected_experience_years": 0,
+        "professional_development": {
+          "professional_development_score": 0.0,
+          "professional_development_level": "Minimal - Little evidence of continuous learning",
+          "component_scores": {
+            "certifications": {
+              "certification_score": 0.0,
+              "certification_count": 0,
+              "recent_certification_score": 0.0,
+              "certifications_found": [],
+              "certification_categories": {},
+              "years_detected": []
+            },
+            "online_learning": {
+              "online_learning_score": 0.0,
+              "platforms_found": [],
+              "course_count_estimate": 0,
+              "recent_learning_score": 0.0,
+              "specializations_mentioned": false
+            },
+            "conferences": {
+              "conference_score": 0.0,
+              "speaking_score": 0.0,
+              "attendance_score": 0.0,
+              "events_found": [],
+              "speaker_events": [],
+              "major_conferences": []
+            },
+            "content_creation": {
+              "content_creation_score": 0.0,
+              "blog_writing": false,
+              "video_content": false,
+              "open_source": false,
+              "community_involvement": false,
+              "content_platforms": [],
+              "github_activity": null
+            }
+          },
+          "weights_used": {
+            "certifications": 0.35,
+            "online_learning": 0.25,
+            "conferences": 0.2,
+            "content_creation": 0.2
+          },
+          "summary": {
+            "total_certifications": 0,
+            "certification_categories": [],
+            "recent_certifications": false,
+            "learning_platforms_used": 0,
+            "estimated_courses_completed": 0,
+            "conference_speaker": false,
+            "conferences_attended": 0,
+            "content_creator": false,
+            "content_types": [],
+            "continuous_learner": false,
+            "key_highlights": []
+          }
+        },
+        "additional_features": {
+          "education_level": 3,
+          "has_certifications": false,
+          "leadership_experience": 0
+        },
+        "scoring_weights": {
+          "skills": 0.4,
+          "experience": 0.3,
+          "location": 0.1,
+          "professional_dev": 0.2
+        },
+        "job_requirements_used": {
+          "position": "web dev",
+          "required_skills": [
+            "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+            "Programming Languages: HTML",
+            "JavaScript",
+            "UX",
+            "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+            "Angular",
+            "CSS"
+          ],
+          "required_experience": "5",
+          "location": "london"
+        },
+        "candidate_id": "3dccba213ce6",
+        "has_duplicates": false,
+        "exact_skill_bonus": 0.0,
+        "certification_bonus": 0,
+        "leadership_bonus": 0.0,
+        "adjusted_score": 0.05714285714285714,
+        "final_rank": 4,
+        "selection_reason": "Moderate skill match"
+      }
+    ],
+    "selection_criteria": "Algorithmic scoring based on skills, experience, professional development, and additional features",
+    "scoring_method": "Pure algorithmic approach without LLM"
+  },
+  "final_top_5": [
+    {
+      "file_path": "approved_tickets\\96842d6ce2_web-dev\\Walid_20250822_064249.pdf",
+      "filename": "Walid_20250822_064249.pdf",
+      "final_score": 0.49835714285714283,
+      "skill_score": 0.8571428571428571,
+      "experience_score": 0.4,
+      "location_score": 0.0,
+      "professional_development_score": 0.1775,
+      "similarity_score": 0.013130374809570227,
+      "matched_skills": [
+        "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+        "Programming Languages: HTML",
+        "JavaScript",
+        "UX",
+        "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+        "CSS"
+      ],
+      "detailed_skill_matches": {
+        "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React": [
+          "react",
+          "reactjs"
+        ],
+        "Programming Languages: HTML": [
+          "html"
+        ],
+        "JavaScript": [
+          "javascript"
+        ],
+        "UX": [
+          "ux"
+        ],
+        "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience": [
+          "sql"
+        ],
+        "CSS": [
+          "css"
+        ]
+      },
+      "detected_experience_years": 2,
+      "professional_development": {
+        "professional_development_score": 0.1775,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.5071428571428571,
+            "certification_count": 3,
+            "recent_certification_score": 0.0,
+            "certifications_found": [
+              "cka",
+              "ceh",
+              "cks"
+            ],
+            "certification_categories": {
+              "devops": [
+                "cka",
+                "cks"
+              ],
+              "security": [
+                "ceh"
+              ]
+            },
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 3,
+          "certification_categories": [
+            "devops",
+            "security"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Has 3 professional certifications"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 2,
+        "has_certifications": true,
+        "leadership_experience": 1
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "web dev",
+        "required_skills": [
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+          "Programming Languages: HTML",
+          "JavaScript",
+          "UX",
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+          "Angular",
+          "CSS"
+        ],
+        "required_experience": "5",
+        "location": "london"
+      },
+      "candidate_id": "52ec00666070",
+      "has_duplicates": false,
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0.1,
+      "leadership_bonus": 0.02,
+      "adjusted_score": 0.6183571428571428,
+      "final_rank": 1,
+      "selection_reason": "Excellent skill match; has relevant certifications; leadership experience"
+    },
+    {
+      "file_path": "approved_tickets\\96842d6ce2_web-dev\\SAHIL_KHAN_20250821_234232.pdf",
+      "filename": "SAHIL_KHAN_20250821_234232.pdf",
+      "final_score": 0.3700714285714286,
+      "skill_score": 0.5714285714285714,
+      "experience_score": 0.2,
+      "location_score": 0.0,
+      "professional_development_score": 0.4075,
+      "similarity_score": 0.04653918479959774,
+      "matched_skills": [
+        "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+        "JavaScript",
+        "UX",
+        "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience"
+      ],
+      "detailed_skill_matches": {
+        "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React": [
+          "react",
+          "reactjs"
+        ],
+        "JavaScript": [
+          "javascript"
+        ],
+        "UX": [
+          "ux"
+        ],
+        "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience": [
+          "sql"
+        ]
+      },
+      "detected_experience_years": 1,
+      "professional_development": {
+        "professional_development_score": 0.4075,
+        "professional_development_level": "Moderate - Some professional development activities",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.7071428571428571,
+            "certification_count": 3,
+            "recent_certification_score": 0.6,
+            "certifications_found": [
+              "google cloud certified",
+              "cka",
+              "cks"
+            ],
+            "certification_categories": {
+              "cloud": [
+                "google cloud certified"
+              ],
+              "devops": [
+                "cka",
+                "cks"
+              ]
+            },
+            "years_detected": [
+              2022,
+              2021
+            ]
+          },
+          "online_learning": {
+            "online_learning_score": 0.4,
+            "platforms_found": [
+              "coursera"
+            ],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 3,
+          "certification_categories": [
+            "cloud",
+            "devops"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 1,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": [
+            "Has 3 professional certifications",
+            "Cloud certified professional"
+          ]
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 1
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "web dev",
+        "required_skills": [
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+          "Programming Languages: HTML",
+          "JavaScript",
+          "UX",
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+          "Angular",
+          "CSS"
+        ],
+        "required_experience": "5",
+        "location": "london"
+      },
+      "candidate_id": "368f1f98eacd",
+      "has_duplicates": false,
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0.1,
+      "leadership_bonus": 0.02,
+      "adjusted_score": 0.4900714285714286,
+      "final_rank": 2,
+      "selection_reason": "Moderate skill match; has relevant certifications; leadership experience"
+    },
+    {
+      "file_path": "approved_tickets\\96842d6ce2_web-dev\\Fardeen_Khan_20250821_234031.pdf",
+      "filename": "Fardeen_Khan_20250821_234031.pdf",
+      "final_score": 0.3125,
+      "skill_score": 0.0,
+      "experience_score": 1.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.0625,
+      "similarity_score": 0.06490758396650059,
+      "matched_skills": [],
+      "detailed_skill_matches": {},
+      "detected_experience_years": 5,
+      "professional_development": {
+        "professional_development_score": 0.0625,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.17857142857142858,
+            "certification_count": 1,
+            "recent_certification_score": 0.0,
+            "certifications_found": [
+              "pmp"
+            ],
+            "certification_categories": {
+              "agile": [
+                "pmp"
+              ]
+            },
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 2,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": true
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 1,
+          "certification_categories": [
+            "agile"
+          ],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 2,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": true,
+        "leadership_experience": 3
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "web dev",
+        "required_skills": [
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+          "Programming Languages: HTML",
+          "JavaScript",
+          "UX",
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+          "Angular",
+          "CSS"
+        ],
+        "required_experience": "5",
+        "location": "london"
+      },
+      "candidate_id": "58a8b0819d31",
+      "has_duplicates": false,
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0.1,
+      "leadership_bonus": 0.06,
+      "adjusted_score": 0.4725,
+      "final_rank": 3,
+      "selection_reason": "Moderate skill match; perfect experience fit; has relevant certifications; leadership experience"
+    },
+    {
+      "file_path": "approved_tickets\\96842d6ce2_web-dev\\Shubham_20250822_044010.pdf",
+      "filename": "Shubham_20250822_044010.pdf",
+      "final_score": 0.05714285714285714,
+      "skill_score": 0.14285714285714285,
+      "experience_score": 0.0,
+      "location_score": 0.0,
+      "professional_development_score": 0.0,
+      "similarity_score": 0.0038979855167445444,
+      "matched_skills": [
+        "JavaScript"
+      ],
+      "detailed_skill_matches": {
+        "JavaScript": [
+          "js"
+        ]
+      },
+      "detected_experience_years": 0,
+      "professional_development": {
+        "professional_development_score": 0.0,
+        "professional_development_level": "Minimal - Little evidence of continuous learning",
+        "component_scores": {
+          "certifications": {
+            "certification_score": 0.0,
+            "certification_count": 0,
+            "recent_certification_score": 0.0,
+            "certifications_found": [],
+            "certification_categories": {},
+            "years_detected": []
+          },
+          "online_learning": {
+            "online_learning_score": 0.0,
+            "platforms_found": [],
+            "course_count_estimate": 0,
+            "recent_learning_score": 0.0,
+            "specializations_mentioned": false
+          },
+          "conferences": {
+            "conference_score": 0.0,
+            "speaking_score": 0.0,
+            "attendance_score": 0.0,
+            "events_found": [],
+            "speaker_events": [],
+            "major_conferences": []
+          },
+          "content_creation": {
+            "content_creation_score": 0.0,
+            "blog_writing": false,
+            "video_content": false,
+            "open_source": false,
+            "community_involvement": false,
+            "content_platforms": [],
+            "github_activity": null
+          }
+        },
+        "weights_used": {
+          "certifications": 0.35,
+          "online_learning": 0.25,
+          "conferences": 0.2,
+          "content_creation": 0.2
+        },
+        "summary": {
+          "total_certifications": 0,
+          "certification_categories": [],
+          "recent_certifications": false,
+          "learning_platforms_used": 0,
+          "estimated_courses_completed": 0,
+          "conference_speaker": false,
+          "conferences_attended": 0,
+          "content_creator": false,
+          "content_types": [],
+          "continuous_learner": false,
+          "key_highlights": []
+        }
+      },
+      "additional_features": {
+        "education_level": 3,
+        "has_certifications": false,
+        "leadership_experience": 0
+      },
+      "scoring_weights": {
+        "skills": 0.4,
+        "experience": 0.3,
+        "location": 0.1,
+        "professional_dev": 0.2
+      },
+      "job_requirements_used": {
+        "position": "web dev",
+        "required_skills": [
+          "and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React",
+          "Programming Languages: HTML",
+          "JavaScript",
+          "UX",
+          "or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience",
+          "Angular",
+          "CSS"
+        ],
+        "required_experience": "5",
+        "location": "london"
+      },
+      "candidate_id": "3dccba213ce6",
+      "has_duplicates": false,
+      "exact_skill_bonus": 0.0,
+      "certification_bonus": 0,
+      "leadership_bonus": 0.0,
+      "adjusted_score": 0.05714285714285714,
+      "final_rank": 4,
+      "selection_reason": "Moderate skill match"
+    }
+  ]
+}

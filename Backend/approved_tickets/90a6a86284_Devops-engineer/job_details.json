@@ -1,0 +1,33 @@
+{
+  "ticket_info": {
+    "ticket_id": "90a6a86284",
+    "source": "chat",
+    "sender": "user_34767843843c776f",
+    "user_id": "user_34767843843c776f",
+    "subject": "Devops engineer",
+    "session_id": "32d92c99-595e-4b33-ade8-ec67994ff6d4",
+    "created_at": "2025-08-22T07:21:26",
+    "last_updated": "2025-08-22T07:31:15",
+    "status": "new",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-08-22T07:31:15",
+    "approval_token": null,
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "deadline": "29-08-2025",
+    "employment_type": "Full-time",
+    "experience_required": "3",
+    "job_description": "working on cicd pipeline",
+    "job_title": "Devops engineer",
+    "location": "mexico",
+    "required_skills": "Shell Script,CSS",
+    "salary_range": "12-15"
+  },
+  "saved_at": "2025-08-22T21:30:25.520540"
+}

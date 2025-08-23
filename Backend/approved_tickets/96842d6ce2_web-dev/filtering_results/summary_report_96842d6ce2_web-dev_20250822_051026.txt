@@ -1,0 +1,55 @@
+RESUME FILTERING SUMMARY REPORT (NO LLM)
+======================================================================
+
+Job Ticket ID: 96842d6ce2_web-dev
+Position: web dev
+Report Generated: 2025-08-22T05:10:24.416352
+
+======================================================================
+JOB REQUIREMENTS:
+======================================================================
+Experience: 5
+Skills: and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React, UX, Programming Languages: HTML, or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience, CSS, JavaScript, Angular
+Location: london
+Salary: 55-65
+Deadline: 28-12-2025
+
+======================================================================
+FILTERING SUMMARY:
+======================================================================
+Total Resumes Submitted: 3
+Unique Candidates: 3
+Duplicate Groups Found: 0
+Final Selected: 3
+
+======================================================================
+TOP CANDIDATES (RANKED):
+======================================================================
+
+1. SAHIL_KHAN_20250821_234232.pdf
+   Overall Score: 49.0%
+   Skill Match: 57.1% (4/7 skills)
+   Matched Skills: and potentially server-side languages. Web Development Frameworks and Libraries: Experience with frameworks like React, UX, or Vue.js is often required. Database Management: Understanding database concepts and experience with databases like MySQL or MongoDB. Version Control: Knowledge of Git and GitHub is essential for managing code. Problem-solving and Analytical Skills: The ability to troubleshoot issues and find effective solutions. Communication and Collaboration: Good communication skills are crucial for working with teams. User Experience, JavaScript
+   Experience: 1 years (Score: 20.0%)
+   Location Match: No
+   Professional Development Score: 40.8%
+   Selection Reason: Moderate skill match; has relevant certifications; leadership experience
+
+2. Fardeen_Khan_20250821_234031.pdf
+   Overall Score: 47.2%
+   Skill Match: 0.0% (0/7 skills)
+   Matched Skills: 
+   Experience: 5 years (Score: 100.0%)
+   Location Match: No
+   Professional Development Score: 6.2%
+   Selection Reason: Moderate skill match; perfect experience fit; has relevant certifications; leadership experience
+
+3. Shubham_20250822_044010.pdf
+   Overall Score: 5.7%
+   Skill Match: 14.3% (1/7 skills)
+   Matched Skills: JavaScript
+   Experience: 0 years (Score: 0.0%)
+   Location Match: No
+   Professional Development Score: 0.0%
+   Selection Reason: Moderate skill match
+

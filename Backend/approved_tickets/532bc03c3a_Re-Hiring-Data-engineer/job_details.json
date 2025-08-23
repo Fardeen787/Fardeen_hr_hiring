@@ -1,0 +1,33 @@
+{
+  "ticket_info": {
+    "ticket_id": "532bc03c3a",
+    "source": "email",
+    "sender": "khanfardeen833@gmail.com",
+    "user_id": "khanfardeen833@gmail.com",
+    "subject": "Re: Hiring Data engineer",
+    "session_id": null,
+    "created_at": "2025-07-23T23:07:01",
+    "last_updated": "2025-07-24T08:19:49",
+    "status": "updated",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-07-23T23:08:23",
+    "approval_token": "rFzUk1uUrdIvOlcdfH8AXOG88nixGGq6",
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "deadline": "15-02-2025",
+    "employment_type": "Full-time",
+    "experience_required": "8-10",
+    "job_description": "We are looking for an experienced Python developer to join our backend team. The ideal candidate will work on building scalable web applications and APIs.",
+    "job_title": "Senior Developer",
+    "location": "Mumbai, Maharashtra",
+    "required_skills": "Python, Django, FastAPI, PostgreSQL, Redis, Docker, AWS, REST APIs, Git",
+    "salary_range": "INR 15-25 Lakhs per annum"
+  },
+  "saved_at": "2025-08-22T21:30:23.800734"
+}

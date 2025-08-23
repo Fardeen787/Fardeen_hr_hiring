@@ -1,0 +1,39 @@
+{
+  "ticket_id": "96842d6ce2",
+  "created_at": "2025-08-21T22:50:28.478866",
+  "folder_name": "96842d6ce2_web-dev",
+  "resumes": [
+    {
+      "filename": "Fardeen_Khan_20250821_234031.pdf",
+      "original_filename": "Rajesh_cv.pdf",
+      "uploaded_at": "2025-08-21T23:40:31.561417",
+      "applicant_name": "Fardeen Khan",
+      "applicant_email": "khanfardeen833@gmail.com",
+      "file_size": 95351
+    },
+    {
+      "filename": "SAHIL_KHAN_20250821_234232.pdf",
+      "original_filename": "MagicalCV.pdf",
+      "uploaded_at": "2025-08-21T23:42:32.946304",
+      "applicant_name": "SAHIL KHAN",
+      "applicant_email": "khanfardeen833@gmail.com",
+      "file_size": 44498
+    },
+    {
+      "filename": "Shubham_20250822_044010.pdf",
+      "original_filename": "Shubham_Khandelwal_20250625_091547.pdf",
+      "uploaded_at": "2025-08-22T04:40:10.179112",
+      "applicant_name": "Shubham",
+      "applicant_email": "shubham@gmail.com",
+      "file_size": 1011016
+    },
+    {
+      "filename": "Walid_20250822_064249.pdf",
+      "original_filename": "Test_Applicant_20250625_085009.pdf",
+      "uploaded_at": "2025-08-22T06:42:49.397486",
+      "applicant_name": "Walid",
+      "applicant_email": "walid@gmail.com",
+      "file_size": 44450
+    }
+  ]
+}

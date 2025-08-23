@@ -1,0 +1,33 @@
+{
+  "ticket_info": {
+    "ticket_id": "7a5f71a440",
+    "source": "chat",
+    "sender": "user_52269eed",
+    "user_id": "user_52269eed",
+    "subject": "software developer",
+    "session_id": "6324f420-8d93-452a-8440-a928594d6075",
+    "created_at": "2025-07-23T23:25:14",
+    "last_updated": "2025-07-23T23:38:29",
+    "status": "new",
+    "approval_status": "approved",
+    "approved": 1,
+    "approved_at": "2025-07-23T23:38:29",
+    "approval_token": null,
+    "terminated_at": null,
+    "terminated_by": null,
+    "termination_reason": null,
+    "rejected_at": null,
+    "rejection_reason": null
+  },
+  "job_details": {
+    "deadline": "25-07-2025",
+    "employment_type": "Full-time",
+    "experience_required": "2",
+    "job_description": "working on python",
+    "job_title": "software developer",
+    "location": "pune",
+    "required_skills": "python,c++",
+    "salary_range": "20"
+  },
+  "saved_at": "2025-08-22T21:30:24.659047"
+}
